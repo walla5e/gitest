@@ -1,2 +1,6 @@
 dodaje tekst
+<<<<<<< HEAD
 edytuje w sobote mastera
+=======
+dodaje w sobote
+>>>>>>> new_branch
